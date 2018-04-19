@@ -1,7 +1,7 @@
 //////////////////////////////////////////////
-// KT0915 DSP radio
-// Modified firmware for Digital Audio level control
-// RSSI in FM mode is white color bar
+// Silicon Labs. Si4720 FM transceiver
+// kodera2t April 19, 2018
+// No warranty, provided as is.
 //////////////////////////////////////////////
 #include <SPI.h>
 #include <Wire.h>
